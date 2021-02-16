@@ -1,4 +1,4 @@
-## how to install
+## how to Run ⚙
 
 1.Install dependency
 
