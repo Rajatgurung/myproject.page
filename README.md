@@ -12,6 +12,9 @@
    rename example.env to .env
    ```
 
-3. ```
-   npm run dev
-   ```
+3. Configure db in env file
+
+4. Run npm migrate
+
+5. Npm run dev
+    
